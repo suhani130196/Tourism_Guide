@@ -1,0 +1,83 @@
+[
+    {
+      "placeName": "Taj Mahal",
+      "description": "A UNESCO World Heritage site, the Taj Mahal is an ivory-white marble mausoleum in Agra. ",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 9000,
+      "ratings": 4.9
+    },
+    {
+      "placeName": "Jaipur",
+      "description": "The Pink City of India, Jaipur is known for its historic forts, palaces, and vibrant culture. The Pink City of India",
+      "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 10000,
+      "ratings": 4.8
+    },
+    {
+      "placeName": "Goa",
+      "description": "Famous for its beaches, nightlife, and Portuguese heritage, Goa is a popular tourist destination.",
+      "image": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 15000,
+      "ratings": 4.7
+    },
+    {
+      "placeName": "Kerala Backwaters",
+      "description": "A network of interconnected canals, rivers, and lakes, offering serene boat rides and houseboat stays.",
+      "image": "https://images.unsplash.com/photo-1593693401060-9fc28cf9e368?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 12000,
+      "ratings": 4.8
+    },
+    {
+      "placeName": "Varanasi",
+      "description": "One of the oldest cities in the world, Varanasi is a spiritual hub known for its ghats and temples.",
+      "image": "https://images.unsplash.com/photo-1599831069477-b2acdc0bcb91?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 18000,
+      "ratings": 4.6
+    },
+    {
+      "placeName": "Ranthambore National Park",
+      "description": "A renowned wildlife sanctuary in Rajasthan, known for its tiger population and diverse flora and fauna.",
+      "image": "https://images.unsplash.com/photo-1700562556421-8b96fdd43898?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 20000,
+      "ratings": 4.7
+    },
+    {
+      "placeName": "Hampi",
+      "description": "A UNESCO World Heritage site, Hampi is an ancient village known for its ruins of temples and palaces.",
+      "image": "https://plus.unsplash.com/premium_photo-1661923667274-5e02bb911e15?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 11000,
+      "ratings": 4.8
+    },
+    {
+      "placeName": "Ladakh",
+      "description": "A region in Jammu and Kashmir, Ladakh is known for its stunning landscapes, Buddhist monasteries, and adventure tourism.",
+      "image": "https://images.unsplash.com/photo-1581793746485-04698e79a4e8?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Summer",
+      "price": 14000,
+      "ratings": 4.9
+    },
+    {
+      "placeName": "Udaipur",
+      "description": "Known as the City of Lakes, Udaipur is famous for its palaces, lakes, and romantic ambiance.",
+      "image": "https://plus.unsplash.com/premium_photo-1661964079694-ccfaf7dc8028?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 15000,
+      "ratings": 4.7
+    },
+    {
+      "placeName": "Mysore",
+      "description": "Renowned for its royal heritage and the grand Mysore Palace, this city is a cultural hub in Karnataka.",
+      "image": "https://images.unsplash.com/photo-1600324832899-4031cd16c99c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "whenToVisitSeason": "Winter",
+      "price": 12000,
+      "ratings": 4.6
+    }
+  ]
+  

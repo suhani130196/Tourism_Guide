@@ -1,0 +1,20 @@
+#root{
+    width: 100vw;
+    overflow: hidden;
+}
+.coverImage{
+    height: 500px;
+    width: 100vw;
+    position: relative;
+}
+.carousel{
+     padding: 0px 20px;
+     margin: 0px 100px;
+   
+
+}
+.carouselImages{
+    height: 400px;
+    width: 100%;
+    
+}

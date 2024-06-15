@@ -1,0 +1,30 @@
+.header{
+   
+   
+    align-items: center;
+    display: flex;
+    padding: 10px 100px;
+    gap: 40px;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.header2{
+    display: flex;
+    gap: 100px;
+    justify-content: end;
+    align-items: center;
+}
+.logoName{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.signInBtn{
+    border: none;
+    border-radius: 14px;
+    padding: 0px 40px;
+}
