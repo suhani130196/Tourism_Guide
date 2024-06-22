@@ -1,34 +1,23 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
-
-import Header from "./components/Navbar";
-import About from "./components/about";
-import ImageSlider from "./components/ImageCarousel";
-import Cards from './components/Cards';
+import Navbar from "./Components/Navbar";
+import ImageSlider from "./Components/ImageCarousel";
+import Cards from "./Components/Cards";
 import Touristplaces from "./TouristPlaces.json";
-
+import About from "./Pages/About";
+import Home from "./Pages/Home";
+import TouristPlaceDetailedPage from "./Pages/TouristPlaceDetailedPage";
 
 function App() {
   return (
     <div className="">
-      <Header />
-      <ImageSlider/>
-      <div className="m-[40px] flex flex-wrap gap-8 items-center justify-center">
-          <Cards data={Touristplaces[0]} />
-          <Cards data={Touristplaces[1]} />
-          <Cards data={Touristplaces[2]} />
-          <Cards data={Touristplaces[3]} />
-          <Cards data={Touristplaces[4]} />
-          <Cards data={Touristplaces[5]} />
-          <Cards data={Touristplaces[6]} />
-          <Cards data={Touristplaces[7]} />
-        </div>
+      <Navbar />
       <Routes>
-        <Route exact path="/about" element={<About />} />
+        <Route path="" element={<Home />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/:placesToVisit" element={<TouristPlaceDetailedPage />} />
       </Routes>
-      
     </div>
   );
 }

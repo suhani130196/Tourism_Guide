@@ -5,7 +5,8 @@
       "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "whenToVisitSeason": "Winter",
       "price": 9000,
-      "ratings": 4.9
+      "ratings": 4.9, 
+      "detail": "The Taj Mahal, a UNESCO World Heritage Site, is an iconic symbol of love built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. Located on the banks of the Yamuna River in Agra, Uttar Pradesh, this white marble mausoleum combines elements from Islamic, Persian, Ottoman Turkish, and Indian architectural styles. Its beauty is highlighted by the exquisite inlay work of semi-precious stones and intricate calligraphy. The Taj Mahal is particularly stunning at sunrise and sunset. The Taj Mahal, for which even the course of the river Yamuna is said to have been diverted, can best be described in the words of the Noble Laurette Gurudev Rabindranath Tagore, A visitor to the monument may very well stand agape at this spectacle, the romanticism and sheer majesty of the structure unbelievably true. Its sensuous appeal was never more heightened as on a full moon night. The dome is what is highlighted, while the other aspects of the structure, though separated, each facet with its individuality intact, is nevertheless united in look, the balance is so perfect. The rows of cypress trees offset by the green carpet of grass complete the picture of idyllic proportions, resplendent in royal dignity."
     },
     {
       "placeName": "Jaipur",
@@ -21,7 +22,8 @@
       "image": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "whenToVisitSeason": "Winter",
       "price": 15000,
-      "ratings": 4.7
+      "ratings": 4.7,
+      "detail": "Goa, India's smallest state, is famous for its stunning beaches, vibrant nightlife, and Portuguese heritage. Key attractions include the beaches of Baga, Anjuna, and Palolem, each offering different experiences from lively parties to serene sunsets. Old Goa is home to beautiful churches and cathedrals, such as the Basilica of Bom Jesus and Se Cathedral, reflecting its colonial past. Goa's cuisine, blending Indian and Portuguese influences, is also a highlight. Goa, India's smallest state, is famous for its stunning beaches, vibrant nightlife, and Portuguese heritage. Key attractions include the beaches of Baga, Anjuna, and Palolem, each offering different experiences from lively parties to serene sunsets. Old Goa is home to beautiful churches and cathedrals, such as the Basilica of Bom Jesus and Se Cathedral, reflecting its colonial past. Goa's cuisine, blending Indian and Portuguese influences, is also a highlight. Goa is all about losing track of time. Where you don’t know when the sun goes down and the stars come out as you dance the night away. The throbbing beaches and the cheerful outlook of the many tourists in Goa make you feel like something magical is always about to happen. Goa is in a constant state of excitement. A tropical paradise where night and day merge into a unending journey of relaxation and rejuvenation - almost like a party that everybody has been invited to. However, Goa is also about wandering away from the  restless crowds and heading to quaint, unusual cafes to spend some time with yourself or a loved one. It is about stealing away moments and escaping the chatter of the many people around you.   In short, Goa is both the calm and the chaos."
     },
     {
       "placeName": "Kerala Backwaters",
@@ -39,14 +41,7 @@
       "price": 18000,
       "ratings": 4.6
     },
-    {
-      "placeName": "Ranthambore National Park",
-      "description": "A renowned wildlife sanctuary in Rajasthan, known for its tiger population and diverse flora and fauna.",
-      "image": "https://images.unsplash.com/photo-1700562556421-8b96fdd43898?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "whenToVisitSeason": "Winter",
-      "price": 20000,
-      "ratings": 4.7
-    },
+    
     {
       "placeName": "Hampi",
       "description": "A UNESCO World Heritage site, Hampi is an ancient village known for its ruins of temples and palaces.",
@@ -70,14 +65,7 @@
       "whenToVisitSeason": "Winter",
       "price": 15000,
       "ratings": 4.7
-    },
-    {
-      "placeName": "Mysore",
-      "description": "Renowned for its royal heritage and the grand Mysore Palace, this city is a cultural hub in Karnataka.",
-      "image": "https://images.unsplash.com/photo-1600324832899-4031cd16c99c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "whenToVisitSeason": "Winter",
-      "price": 12000,
-      "ratings": 4.6
     }
+    
   ]
   
